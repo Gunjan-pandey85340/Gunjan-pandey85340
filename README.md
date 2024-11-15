@@ -6,15 +6,11 @@
 
 ###
 
-<h2 align="left">Frontend developer || JavaScript || Reactjs || Tailwind Css || Bootstrap||Open Source contributor||Student @GLAU<br>||Bachelor of Technology - B.Tech</h2>
+<h2 align="left">Frontend developer HTML5|| CSS || JavaScript  || Java|| Bootstrap || Open Source contributor||Student @GLAU<br>||Bachelor of Technology - B.Tech</h2>
 
 ###
 
 <p align="left">📚 I’m currently diving into MERN stack by building an awesome e-commerce website! 🚀</p>
-
-###
-
-<h2 align="left">I code with</h2>
 
 ###
 
@@ -26,6 +22,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
 </div>
 
 ###

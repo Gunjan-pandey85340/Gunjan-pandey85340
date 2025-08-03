@@ -8,7 +8,7 @@
 
 ---
 
-<h1 align="left">Hey 👋 </h1>
+<h1 align="left">Hey 👋</h1>
 
 <p align="left">My name is Gunjan Pandey and I'm a Full Stack Developer</p>
 
